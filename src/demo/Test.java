@@ -7,7 +7,7 @@ public class Test {
 		
 System.out.println("Test........");
 		
-		System.out.println("Git Lecture......");
+		System.out.println("Git B9......");
 		
 		
 		
